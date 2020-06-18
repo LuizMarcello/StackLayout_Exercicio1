@@ -10,7 +10,7 @@ namespace StackLayout_Exercicio1
         {
             InitializeComponent();
 
-            MainPage = new StackPage2();
+            MainPage = new StackPage4();
         }
 
         protected override void OnStart()
